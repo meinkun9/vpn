@@ -91,3 +91,14 @@ vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@37.9.4.12:443?encryption=none&secur
 
 
 
+
+
+
+vless://1db0a61e-05f5-43ad-870c-ceff6ce06939@109.120.189.154:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=KvQ0JuE-17nWMSvEnG9xdlqPWv3bZBn9JlDiLmyE-SE&sid=6aa44564cda562bc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20VK
+
+vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@37.9.4.12:443/?type=grpc&encryption=none&flow=&sni=career.avito.com&fp=qq&security=reality&pbk=ZGYwUN34SP8EaOhrGwqCcD1JxzhNx8CR1eh7VIsPR2Q&sid=2b1fb8ca1ce79287#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B*CIDR%5D%20%285%29
+
+
+vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@37.9.4.12:443/?type=grpc&encryption=none&flow=&sni=career.avito.com&fp=edge&security=reality&pbk=ZGYwUN34SP8EaOhrGwqCcD1JxzhNx8CR1eh7VIsPR2Q&sid=2b1fb8ca1ce79287#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B*CIDR%5D%20%283%29
+
+
