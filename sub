@@ -124,3 +124,16 @@ vless://1bf44cb7-f947-441c-abb5-242c47e78292@87.242.87.34:443?flow=xtls-rprx-vis
 vless://423caebf-ce56-4e26-a792-7a6becb17e9b@85.192.30.86:9443?encryption=none&security=reality&sni=maps.apple.com&fp=safari&pbk=OMlQAFrCMZ3DX0xlnbEZiByLBFzpUE8XJHJsrBzLdlY&sid=2da4299da566b7&type=grpc&mode=gun&authority=&serviceName=your-custom-path#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B*CIDR%5D
 
 
+
+
+
+vless://d8b1711a-882d-11f1-9ca5-1e6febe3e1df@89.208.231.229:2053?encryption=none&security=reality&sni=hh.ru&fp=firefox&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=4b685844d0b4f724&type=grpc&mode=gun&authority=&serviceName=grpc-direct#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%AA%F0%9F%87%AA%20%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B*CIDR%5D%20VK
+
+
+vless://547c0d9e-9bb5-4e83-b6e7-09953bc6004b@193.33.133.57:8443?encryption=none&security=tls&sni=cloudflare.vhub.pro&alpn=http%2F1.1&fp=qq&type=ws&host=cloudflare.vhub.pro&path=%2Fwebsocket#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B*CIDR%5D
+
+vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@37.9.4.12:443?encryption=none&security=reality&sni=career.avito.com&fp=edge&pbk=ZGYwUN34SP8EaOhrGwqCcD1JxzhNx8CR1eh7VIsPR2Q&sid=2b1fb8ca1ce79287&type=grpc&mode=gun&authority=&serviceName=#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D
+
+vless://1db0a61e-05f5-43ad-870c-ceff6ce06939@109.120.189.154:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=firefox&pbk=KvQ0JuE-17nWMSvEnG9xdlqPWv3bZBn9JlDiLmyE-SE&sid=6aa44564cda562bc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5B*CIDR%5D%20VK
+
+
