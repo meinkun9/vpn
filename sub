@@ -71,3 +71,23 @@ vless://f0cbfddd-772a-4c8f-b2e1-08cba9e247d8@31.177.111.140:443?flow=xtls-rprx-v
 
 
 
+
+
+vless://1db0a61e-05f5-43ad-870c-ceff6ce06939@109.120.189.154:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=safari&pbk=KvQ0JuE-17nWMSvEnG9xdlqPWv3bZBn9JlDiLmyE-SE&sid=6aa44564cda562bc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20VK
+
+
+
+vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&security=reality&sni=www.nvidia.com&fp=firefox&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&sid=51d3e4f6&type=xhttp&mode=auto&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B*CIDR%5D%20CDN
+
+
+vless://db904cbc-0292-469a-a356-eb02527af59a@62.152.59.193:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=max.ru&fp=qq&pbk=pPzR1XhpFrEIwevI7lPPvw4faRcRQmqiNySYHkSdVBU&sid=2a552b0d4d15e0f7&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B*CIDR%5D
+
+
+vless://d3695645-e3e6-48e4-ab8a-0ec85c281030@5.188.115.69:443?encryption=none&security=tls&sni=amogus.razkur.dev&alpn=http%2F1.1&fp=ios&type=ws&path=%2Fws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B*CIDR%5D
+
+
+
+vless://c01c2da7-6977-4b53-a493-cda17fa61b4f@37.9.4.12:443?encryption=none&security=reality&sni=career.avito.com&fp=firefox&pbk=ZGYwUN34SP8EaOhrGwqCcD1JxzhNx8CR1eh7VIsPR2Q&sid=2b1fb8ca1ce79287&type=grpc&mode=gun&authority=&serviceName=#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B*CIDR%5D
+
+
+
