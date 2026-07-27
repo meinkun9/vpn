@@ -171,3 +171,11 @@ vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@176.109.85.70:443?flow=xtls-rprx-vi
 vless://533b37bc-38ab-4e6e-9b51-b59b2a412dfc@91.185.83.127:443?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&sid=dfdee30a27b11f0f&type=grpc&mode=gun&authority=&serviceName=grpc#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B*CIDR%5D
 
 
+
+
+vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.30:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pro-ru-213.emrata.top&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B*CIDR%5D%20VK
+
+
+vless://f81b1299-f813-46ef-aed1-63afa5e61c91@213.219.212.24:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pro-ru-213.emrata.top&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D%20VK
+
+
