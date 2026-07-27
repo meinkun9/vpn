@@ -209,3 +209,33 @@ vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@red-fhmq5ehr3ievlnabv8l2.concept7.r
 vless://884d811f-577b-421e-aabb-608660b0ecfa@72.56.38.194:9892?encryption=none&security=reality&sni=dl.google.com&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&mode=gun&authority=&serviceName=grpc-tunnel#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5B*CIDR%5D
 
 
+
+
+
+vless://5013d710-f477-4c62-a074-c156a3f54a72@37.18.15.103:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ru1.samovargate.com&fp=firefox&pbk=gwuAehnMX6e-n1fxIenfjx43j3qXXi7Cb4wfnW5VyBQ&sid=f04729f65b9ea261&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B*CIDR%5D%20CDN
+
+
+vless://78fe3819-73e3-4720-9840-1a8da52f3417@5.188.115.69:443?encryption=none&security=tls&sni=amogus.razkur.dev&fp=chrome&type=ws&path=%2Fws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D
+
+
+vless://ed54f766-7572-4a9d-8efb-1dca9ae321f4@5.188.115.69:443?encryption=none&security=tls&sni=amogus.razkur.dev&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D
+
+
+vless://78fe3819-73e3-4720-9840-1a8da52f3417@5.188.115.69:443?encryption=none&security=tls&sni=amogus.razkur.dev&fp=chrome&type=ws&path=%2Fws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D
+
+
+vless://a99e5dde-0377-4fae-aa49-13b052061752@5.188.115.69:443?encryption=none&security=tls&sni=amogus.razkur.dev&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D
+
+
+
+vless://26136711-cd56-48de-bc09-82f56154d0e4@5.188.115.69:443?encryption=none&security=tls&sni=amogus.razkur.dev&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D
+
+
+vless://4949da3b-081e-4de8-b9ba-2f243401aaee@5.188.115.69:443?encryption=none&security=tls&sni=amogus.razkur.dev&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D
+
+
+
+
+vless://f85b5746-534d-4b89-8eff-98fa109c9d0d@37.18.15.103:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ru1.samovargate.com&fp=firefox&pbk=gwuAehnMX6e-n1fxIenfjx43j3qXXi7Cb4wfnW5VyBQ&sid=f04729f65b9ea261&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B*CIDR%5D%20CDN
+
+
