@@ -239,3 +239,14 @@ vless://4949da3b-081e-4de8-b9ba-2f243401aaee@5.188.115.69:443?encryption=none&se
 vless://f85b5746-534d-4b89-8eff-98fa109c9d0d@37.18.15.103:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ru1.samovargate.com&fp=firefox&pbk=gwuAehnMX6e-n1fxIenfjx43j3qXXi7Cb4wfnW5VyBQ&sid=f04729f65b9ea261&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B*CIDR%5D%20CDN
 
 
+
+
+
+vless://fb258f28-89a0-11f1-9ca5-1e6febe3e1df@89.208.229.243:2053?encryption=none&security=reality&sni=hh.ru&fp=firefox&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=4b685844d0b4f724&type=grpc&mode=gun&authority=&serviceName=grpc-direct#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B1%F0%9F%87%BB%20%5B*CIDR%5D%20VK
+
+
+
+
+vless://cd47060e-1152-4721-9473-d3b821e66a01@84.201.156.151:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=edge&pbk=di2ZUAOzfJD2nDPKdWltqoIDHBJGOFlzJyazMYmTRQE&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D%20YA
+
+
