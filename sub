@@ -250,3 +250,20 @@ vless://fb258f28-89a0-11f1-9ca5-1e6febe3e1df@89.208.229.243:2053?encryption=none
 vless://cd47060e-1152-4721-9473-d3b821e66a01@84.201.156.151:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=edge&pbk=di2ZUAOzfJD2nDPKdWltqoIDHBJGOFlzJyazMYmTRQE&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D%20YA
 
 
+
+
+
+vless://b9651c9d-01be-4e52-9b95-5a273e65e556@5.188.115.69:443?encryption=none&security=tls&sni=amogus.razkur.dev&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D
+
+
+
+vless://4a555e7e-ea31-4f39-8d26-de0f68bc1460@5.188.115.69:443?encryption=none&security=tls&sni=amogus.razkur.dev&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D
+
+
+vless://03ca696c-ee30-44d4-b0a7-dd2981a510ee@5.188.115.69:443?encryption=none&security=tls&sni=amogus.razkur.dev&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D
+
+
+vless://03ca696c-ee30-44d4-b0a7-dd2981a510ee@5.188.115.69:443?encryption=none&security=tls&sni=amogus.razkur.dev&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Fws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B*CIDR%5D
+
+
+
