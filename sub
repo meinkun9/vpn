@@ -310,3 +310,30 @@ vless://04b3ed78-61b5-42bb-9143-eeb70e64b5aa@87.228.101.30:443?encryption=none&s
 
 
 
+
+
+vless://9ea12baf-29ae-493e-a9f0-2916ff22448e@213.219.212.30:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pro-ru-213.emrata.top&fp=safari&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B*CIDR%5D%20VK
+
+
+
+
+
+vless://12e05835-011f-4c8b-bc05-1b883f0503f2@213.219.212.30:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eh.vk.ru&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B*CIDR%5D%20VK
+
+
+vless://9ea12baf-29ae-493e-a9f0-2916ff22448e@213.219.212.30:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pro-ru-213.emrata.top&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B*CIDR%5D%20VK
+
+
+
+vless://96006428-88d4-11f1-9ca5-1e6febe3e1df@89.208.229.243:2053?encryption=none&security=reality&sni=hh.ru&fp=safari&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=7824dfd19eab1acc&type=grpc&mode=gun&authority=&serviceName=grpc-direct#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B*CIDR%5D%20VK
+
+vless://39c24c2d-c185-4fc4-8631-3645d46bbb76@213.219.212.14:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eh.vk.ru&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B*CIDR%5D%20VK
+
+
+
+
+
+vless://39c24c2d-c185-4fc4-8631-3645d46bbb76@213.219.212.14:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eh.vk.ru&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5B*CIDR%5D%20VK
+
+
+
