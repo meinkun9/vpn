@@ -303,3 +303,10 @@ vless://d8b1711a-882d-11f1-9ca5-1e6febe3e1df@89.208.229.243:2053?encryption=none
 vless://23786eb4-0bbb-43c6-940c-a3b2b5242cb6@5.178.85.11:8443?encryption=none&security=reality&sni=id.pervye.ru&fp=chrome&pbk=K9vJ2zLFxi3VTmrguyLC1KrC920axeFSeA8x_xY4Xhw&type=grpc&mode=gun&authority=&serviceName=ns#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%5B*CIDR%5D
 
 
+
+
+
+vless://04b3ed78-61b5-42bb-9143-eeb70e64b5aa@87.228.101.30:443?encryption=none&security=tls&sni=media-ru3.lbdnetwork.com&fp=edge&type=xhttp&mode=auto&path=%2Fapi%2F#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%5B*CIDR%5D
+
+
+
