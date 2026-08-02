@@ -358,3 +358,14 @@ vless://12e05835-011f-4c8b-bc05-1b883f0503f2@213.219.212.30:443?flow=xtls-rprx-v
 vless://96006428-88d4-11f1-9ca5-1e6febe3e1df@89.208.229.243:2053?encryption=none&security=reality&sni=hh.ru&fp=safari&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=7824dfd19eab1acc&type=grpc&mode=gun&authority=&serviceName=grpc-direct#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B*CIDR%5D%20VK
 
 
+
+
+
+vless://23786eb4-0bbb-43c6-940c-a3b2b5242cb6@185.229.9.176:8443?encryption=none&security=reality&sni=id.pervye.ru&fp=edge&pbk=K9vJ2zLFxi3VTmrguyLC1KrC920axeFSeA8x_xY4Xhw&type=grpc&mode=gun&authority=&serviceName=ns#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D
+
+
+vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&security=reality&sni=www.nvidia.com&fp=firefox&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&sid=51d3e4f6&type=xhttp&mode=auto&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B*CIDR%5D%20CDN
+
+
+
+vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&security=reality&sni=www.nvidia.com&fp=chrome&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&sid=51d3e4f6&type=xhttp&mode=auto&path=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B*CIDR%5D%20CDN
