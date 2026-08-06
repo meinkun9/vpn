@@ -495,3 +495,22 @@ vless://2cca8201-c93e-40eb-bd8a-fea4170c169e@185.126.93.15:443?encryption=none&s
 vless://a6d52d0d-7ce6-4601-8de3-bfcf07646f58@rub.kosmosapp.ru:16923?encryption=none&security=reality&sni=market.yandex.ru&fp=ios&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986&type=grpc&mode=gun&authority=&serviceName=neurex#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B*CIDR%5D
 
 
+
+
+
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.232.12:2027?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=edge&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D%20CDN
+
+
+
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.232.12:2027?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=safari&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D%20CDN
+
+
+
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.232.12:2027?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=ios&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D%20CDN
+
+
+
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@46.243.232.12:2027?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=qq&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B*CIDR%5D%20CDN
+
+
+
